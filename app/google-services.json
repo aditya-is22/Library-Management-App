@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "485568431966",
+    "project_id": "shelfwise-mmnlq",
+    "storage_bucket": "shelfwise-mmnlq.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485568431966:android:c8840ed67cda597c9731cf",
+        "android_client_info": {
+          "package_name": "com.example.shelflife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485568431966-2j748tgbb7be4v6e9g4g69j1554v3f6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shelflife",
+            "certificate_hash": "3760b362c3dceeba89c1fb89e5a928574030cd0a"
+          }
+        },
+        {
+          "client_id": "485568431966-cn9igm1hus8svje0qjs6smmo2pjvf2fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWxWZOaeAGe-sryPN7wD6vtVOEYRSJQwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485568431966-cn9igm1hus8svje0qjs6smmo2pjvf2fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
